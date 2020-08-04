@@ -1,3 +1,9 @@
+####################
+#Hello World
+#Did this work?
+#Spencer 
+####################
+
 def initList(inFile):
     l=[]
     for line in inFile: 
